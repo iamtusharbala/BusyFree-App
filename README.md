@@ -32,3 +32,6 @@ The intended user type has the following privileges.
 - Visual Studio Code
 - Google Chrome
 - Windows Shell
+- COLAB
+- ANACONDA
+- Database - MYSQL
