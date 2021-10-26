@@ -26,3 +26,9 @@ The intended user type has the following privileges.
 - [ book_insert.php ] - Place booking of time slot.
 - [ cancel.php ] - Cancel the slot that was requested.
 - [ /mail.php ] - Send mail to user when particular shop is available.
+
+## Required Software
+- XAMPP
+- Visual Studio Code
+- Google Chrome
+- Windows Shell
