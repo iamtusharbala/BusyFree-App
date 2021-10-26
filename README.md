@@ -18,3 +18,11 @@ The intended user type has the following privileges.
 - [ /shop_index.php] - Shop Edit Profile
 - [ /reg.php ] - User Sign Up
 - [ /reg1.php ] - Shop Sign Up
+
+## Services
+- [ /connection.php ] - Database Connectivity.
+- [ /login_check.php ] - Check the login is valid or not.
+- [ approve.php ] - Set status of booking.
+- [ book_insert.php ] - Place booking of time slot.
+- [ cancel.php ] - Cancel the slot that was requested.
+- [ /mail.php ] - Send mail to user when particular shop is available.
